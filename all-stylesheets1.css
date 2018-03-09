@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Renew - Renovation, Repair & Construction HTML
+Version:	1.1
+Last change:	12/Nov/2015
+Assigned to:	alia
+Primary use:	Renovation, Repair & Construction
+ 
+-------------------------------------------------------------------*/
+<link rel="stylesheet" href="js/style.css"/>
+
+<link rel="stylesheet" href="css/bootstrap/bootstrap.min.css"/>
+
+
+<link rel="stylesheet" href="css/stylesheet.css"/>
+
+
+<link rel="stylesheet" href="css/equal-height-columns.css"/>
+	<link href="js/magnific-popup/magnific-popup.css"/>
+
+<link rel="stylesheet" href="revolution/css/settings.css"/>
+<link rel="stylesheet" href="revolution/css/layers.css"/>
+<link rel="stylesheet" href="revolution/css/navigation.css"/>
+<link rel="stylesheet" href="revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css"/>
+
+
+<link rel="stylesheet" href="js/owl-carousel/owl.carousel.css"/>
+<link rel="stylesheet" href="js/owl-carousel/owl.theme.default.min.css"/>
+
+<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.css"/>
+<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css"/>
+
+
+
+.login {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -150px 0 0 -150px;
+	width:300px;
+	background-image:url('4.jpg');
+}
+.login h1 { color: #fff; text-shadow: 0 0 10px rgba(0,0,0,0.3); letter-spacing:1px; text-align:center; }
+
+input {
+	width: 100%;
+	margin-bottom: 10px;
+	background: rgba(0,0,0,0.3);
+	border: none;
+	outline: none;
+	padding: 10px;
+	font-size: 13px;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+	border: 1px solid rgba(0,0,0,0.3);
+	border-radius: 4px;
+	box-shadow: inset 0 -5px 45px rgba(100,100,100,0.2), 0 1px 1px rgba(255,255,255,0.2);
+	-webkit-transition: box-shadow .5s ease;
+	-moz-transition: box-shadow .5s ease;
+	-o-transition: box-shadow .5s ease;
+	-ms-transition: box-shadow .5s ease;
+	transition: box-shadow .5s ease;
+}
+.az {
+	width: 70%;
+    color: #00FF66;
+}
+input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgba(255,255,255,0.2); }
+
+.login1 {
+	position: absolute;
+	top: 50%;
+	left: 20%;
+	margin: -150px 0 0 -150px;
+	width:300px;
+	height:300px;
+}
+ select {
+	width: 100%;
+	margin-bottom: 10px;
+	background: rgba(0,0,0,0.3);
+	border: none;
+	outline: none;
+	padding: 10px;
+	font-size: 13px;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+	border: 1px solid rgba(0,0,0,0.3);
+	border-radius: 4px;
+	box-shadow: inset 0 -5px 45px rgba(100,100,100,0.2), 0 1px 1px rgba(255,255,255,0.2);
+	-webkit-transition: box-shadow .5s ease;
+	-moz-transition: box-shadow .5s ease;
+	-o-transition: box-shadow .5s ease;
+	-ms-transition: box-shadow .5s ease;
+	transition: box-shadow .5s ease;
+}
+ .t {
+	width: 100%;
+	margin-bottom: 10px;
+	background: rgba(0,0,0,0.3);
+	border: none;
+	outline: none;
+	padding: 10px;
+	font-size: 13px;
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+	border: 1px solid rgba(0,0,0,0.3);
+	border-radius: 4px;
+	box-shadow: inset 0 -5px 45px rgba(100,100,100,0.2), 0 1px 1px rgba(255,255,255,0.2);
+	-webkit-transition: box-shadow .5s ease;
+	-moz-transition: box-shadow .5s ease;
+	-o-transition: box-shadow .5s ease;
+	-ms-transition: box-shadow .5s ease;
+	transition: box-shadow .5s ease;
+}
+
+.button{
+   width:71px;
+     color: #00FF66;
+}
+
+.custab{
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 5% 0;
+    box-shadow: 3px 3px 2px #ccc;
+    transition: 0.5s;
+    }
+.custab:hover{
+    box-shadow: 3px 3px 0px transparent;
+    transition: 0.5s;
+    }
